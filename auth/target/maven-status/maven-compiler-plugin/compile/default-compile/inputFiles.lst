@@ -1,0 +1,17 @@
+/home/shakir/personal/java/projects/auth/src/main/java/com/example/auth/AuthApplication.java
+/home/shakir/personal/java/projects/auth/src/main/java/com/example/auth/config/WebConfig.java
+/home/shakir/personal/java/projects/auth/src/main/java/com/example/auth/controller/AuthController.java
+/home/shakir/personal/java/projects/auth/src/main/java/com/example/auth/controller/BookController.java
+/home/shakir/personal/java/projects/auth/src/main/java/com/example/auth/dto/LoginRequest.java
+/home/shakir/personal/java/projects/auth/src/main/java/com/example/auth/dto/LoginResponse.java
+/home/shakir/personal/java/projects/auth/src/main/java/com/example/auth/model/PerRoleMap.java
+/home/shakir/personal/java/projects/auth/src/main/java/com/example/auth/model/Permissions.java
+/home/shakir/personal/java/projects/auth/src/main/java/com/example/auth/model/UserRoles.java
+/home/shakir/personal/java/projects/auth/src/main/java/com/example/auth/model/UserRolesMap.java
+/home/shakir/personal/java/projects/auth/src/main/java/com/example/auth/model/Users.java
+/home/shakir/personal/java/projects/auth/src/main/java/com/example/auth/repository/UsersRepository.java
+/home/shakir/personal/java/projects/auth/src/main/java/com/example/auth/security/LogicEnum.java
+/home/shakir/personal/java/projects/auth/src/main/java/com/example/auth/security/Permission.java
+/home/shakir/personal/java/projects/auth/src/main/java/com/example/auth/security/PermissionInterceptor.java
+/home/shakir/personal/java/projects/auth/src/main/java/com/example/auth/security/PermissionsEnum.java
+/home/shakir/personal/java/projects/auth/src/main/java/com/example/auth/service/AuthService.java

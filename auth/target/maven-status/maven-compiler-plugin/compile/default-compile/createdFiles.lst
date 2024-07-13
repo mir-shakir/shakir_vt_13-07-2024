@@ -1,0 +1,17 @@
+com/example/auth/repository/UsersRepository.class
+com/example/auth/dto/LoginRequest.class
+com/example/auth/model/Permissions.class
+com/example/auth/security/Permission.class
+com/example/auth/model/PerRoleMap.class
+com/example/auth/security/PermissionsEnum.class
+com/example/auth/service/AuthService.class
+com/example/auth/AuthApplication.class
+com/example/auth/controller/BookController.class
+com/example/auth/model/UserRoles.class
+com/example/auth/controller/AuthController.class
+com/example/auth/config/WebConfig.class
+com/example/auth/model/Users.class
+com/example/auth/security/PermissionInterceptor.class
+com/example/auth/security/LogicEnum.class
+com/example/auth/dto/LoginResponse.class
+com/example/auth/model/UserRolesMap.class
